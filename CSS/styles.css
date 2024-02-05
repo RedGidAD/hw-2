@@ -174,5 +174,6 @@ body {
 }
 .partpholyo-content {
   color: var(--white-color);
+  background-color: var(--accent-text-color);
 }
 /* ================== /main ================== */
